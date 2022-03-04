@@ -180,7 +180,7 @@
                           <OutArgument x:TypeArguments="x:String">[Message]</OutArgument>
                         </Assign.To>
                         <Assign.Value>
-                          <InArgument x:TypeArguments="x:String">["Too big.Try again"]</InArgument>
+                          <InArgument x:TypeArguments="x:String">["Too large.Try again"]</InArgument>
                         </Assign.Value>
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
